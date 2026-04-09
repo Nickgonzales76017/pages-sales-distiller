@@ -1,0 +1,10 @@
+{
+  "id": "demo-sales-distiller",
+  "file": "enterprise-discovery-call.wav",
+  "time": "Demo dataset",
+  "status": "complete",
+  "brief": "Buyer is engaged and sees clear fit, but surfaced one core objection around rollout complexity across teams. The strongest move is a tighter pilot proposal with explicit success criteria, shorter implementation scope, and proof that the first win can ship fast.",
+  "tags": ["pilot", "rollout", "enterprise"],
+  "flagged": true,
+  "demo": true
+}
