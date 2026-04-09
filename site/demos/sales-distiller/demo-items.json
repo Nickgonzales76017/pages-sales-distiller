@@ -1,0 +1,56 @@
+[
+  {
+    "id": "demo-sales-distiller-a",
+    "file": "enterprise-discovery-call.wav",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Buyer is engaged and sees clear fit, but surfaced one core objection around rollout complexity across teams. The strongest move is a tighter pilot proposal with explicit success criteria, shorter implementation scope, and proof that the first win can ship fast.",
+    "tags": [
+      "pilot",
+      "rollout",
+      "enterprise"
+    ],
+    "flagged": true,
+    "demo": true,
+    "searchSummary": "buyer pain, objection cluster, follow-up actions",
+    "whyItMatters": "One sales call becomes part of a searchable deal memory.",
+    "searchIntro": "One sales call becomes part of a searchable deal memory. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-sales-distiller-b",
+    "file": "Related enterprise-discovery-call.wav",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "tags": [
+      "pilot",
+      "rollout",
+      "related"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "related signals, continuity, reuse",
+    "whyItMatters": "One sales call becomes part of a searchable deal memory.",
+    "searchIntro": "One sales call becomes part of a searchable deal memory. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-sales-distiller-c",
+    "file": "Follow-up enterprise-discovery-call.wav",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "tags": [
+      "pilot",
+      "rollout",
+      "follow-up"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "follow-up, memory, downstream action",
+    "whyItMatters": "One sales call becomes part of a searchable deal memory.",
+    "searchIntro": "One sales call becomes part of a searchable deal memory. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  }
+]
