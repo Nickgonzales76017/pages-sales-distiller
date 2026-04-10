@@ -1,56 +1,110 @@
 [
   {
-    "id": "demo-sales-distiller-a",
-    "file": "enterprise-discovery-call.wav",
-    "time": "Reference corpus",
+    "id": "destroy-sales-objection",
+    "file": "9 Minute Training To Destroy Any Sales Objection",
+    "time": "Public origin \u00b7 540s",
     "status": "complete",
-    "brief": "Buyer is engaged and sees clear fit, but surfaced one core objection around rollout complexity across teams. The strongest move is a tighter pilot proposal with explicit success criteria, shorter implementation scope, and proof that the first win can ship fast.",
+    "brief": "How can I communicate to you that you you might be making a  mistake without you getting upset with me? How can I communicate to you that you might be making a mistake without you getting upset with me? How can I communicate to you  that you might be making a mistake without you getting upset with me? How did your spouse feel about repeated back the negative problem hard for him to say like, Oh, she wants me to still have the negative problem?",
     "tags": [
-      "pilot",
-      "rollout",
-      "enterprise"
+      "sales",
+      "objection",
+      "discovery",
+      "call",
+      "closing"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "buyer pain, objection cluster, follow-up actions",
-    "whyItMatters": "One sales call becomes part of a searchable deal memory.",
-    "searchIntro": "One sales call becomes part of a searchable deal memory. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "sourceUrl": "https://www.youtube.com/watch?v=mDWUpuumAuo",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "9 Minute Training To Destroy Any Sales Objection",
+    "publisher": "Jeremy Miner",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Jeremy Miner on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Sales conversations become training material \u2014 objection patterns, discovery techniques, and closing strategies extracted.",
+    "searchSummary": "sales, objection, discovery",
+    "searchIntro": "Search across the sales distiller records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "call brief",
+      "clean transcript",
+      "proof bundle",
+      "search across calls"
+    ],
+    "outputNotes": {
+      "call brief": "Bonfyre extracted the key points from the source audio into a structured call brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/sales-distiller/proofs/destroy-sales-objection/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/sales-distiller/proofs/destroy-sales-objection/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/sales-distiller/proofs/destroy-sales-objection/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/sales-distiller/proofs/destroy-sales-objection"
   },
   {
-    "id": "demo-sales-distiller-b",
-    "file": "Related enterprise-discovery-call.wav",
-    "time": "Reference corpus",
+    "id": "overcome-sales-objections",
+    "file": "How To Overcome Any Sales Objections - Best Sales Objection Handling Techniques",
+    "time": "Public origin \u00b7 426s",
     "status": "complete",
-    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "A sales objection is simply a reason for why somebody doesn't  want to purchase your product and service. It's your job as a seller to uncover the truth behind why they're not buying and  remove that blocker and help them make a purchasing decision. No matter what it is that you're selling, whether you're in sales, business development,  or if you're an entrepreneur, sales objections are going to come from anything that  wasn't discussed in the actual sales meeting. It's your job to  remove this obstacle so they can walk from point A to point B.",
     "tags": [
-      "pilot",
-      "rollout",
-      "related"
+      "sales",
+      "objection",
+      "discovery",
+      "call",
+      "closing"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One sales call becomes part of a searchable deal memory.",
-    "searchIntro": "One sales call becomes part of a searchable deal memory. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
-  },
-  {
-    "id": "demo-sales-distiller-c",
-    "file": "Follow-up enterprise-discovery-call.wav",
-    "time": "Reference corpus",
-    "status": "complete",
-    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
-    "tags": [
-      "pilot",
-      "rollout",
-      "follow-up"
+    "sourceUrl": "https://www.youtube.com/watch?v=9jNdyq-jkhI",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "How To Overcome Any Sales Objections - Best Sales Objection Handling Techniques",
+    "publisher": "Patrick Dang",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Patrick Dang on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Sales conversations become training material \u2014 objection patterns, discovery techniques, and closing strategies extracted.",
+    "searchSummary": "sales, objection, discovery",
+    "searchIntro": "Search across the sales distiller records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "call brief",
+      "clean transcript",
+      "proof bundle",
+      "search across calls"
     ],
-    "flagged": false,
-    "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One sales call becomes part of a searchable deal memory.",
-    "searchIntro": "One sales call becomes part of a searchable deal memory. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "outputNotes": {
+      "call brief": "Bonfyre extracted the key points from the source audio into a structured call brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/sales-distiller/proofs/overcome-sales-objections/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/sales-distiller/proofs/overcome-sales-objections/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/sales-distiller/proofs/overcome-sales-objections/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/sales-distiller/proofs/overcome-sales-objections"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "title": "enterprise-discovery-call.wav",
+  "public_url": "https://www.youtube.com/watch?v=-f2dbXll5B4",
+  "source": {
+    "title": "enterprise-discovery-call.wav",
+    "channel": "Reference corpus",
+    "duration_seconds": 198
+  },
+  "transcribe": {
+    "avg_confidence": 0.8568,
+    "avg_logprob": -0.899,
+    "rtf": 0.0312,
+    "segments_total": 12,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

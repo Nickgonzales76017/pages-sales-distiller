@@ -1,0 +1,17 @@
+{
+  "title": "Follow-up enterprise-discovery-call.wav",
+  "public_url": "https://www.youtube.com/watch?v=wxtkMOjqQ28",
+  "source": {
+    "title": "Follow-up enterprise-discovery-call.wav",
+    "channel": "Reference corpus",
+    "duration_seconds": 92
+  },
+  "transcribe": {
+    "avg_confidence": 0.9229,
+    "avg_logprob": -0.877,
+    "rtf": 0.0448,
+    "segments_total": 5,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

@@ -1,0 +1,3 @@
+Buyer is engaged and sees clear fit, but surfaced one core objection around rollout complexity across teams. The strongest move is a tighter pilot proposal with explicit success criteria, shorter implementation scope, and proof that the first win can ship fast.
+
+buyer pain, objection cluster, follow-up actions

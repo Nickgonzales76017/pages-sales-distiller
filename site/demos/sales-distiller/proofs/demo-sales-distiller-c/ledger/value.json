@@ -1,0 +1,11 @@
+{
+  "family_id": "brief-demo-sales-distiller-c",
+  "atoms": 3,
+  "operators": 2,
+  "realizations": 2,
+  "unrealized_targets": 2,
+  "raw_bytes": 42709,
+  "compressed_bytes": 9119,
+  "replacement_cost_usd": 2.58,
+  "portfolio_value_usd": 10.79
+}
